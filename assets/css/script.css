@@ -20,7 +20,7 @@ h1 {
 }
 
 .input-element {
-    height: 45px; !important;
+    height: 45px; 
     width: 90px;
 }
 
@@ -33,5 +33,5 @@ input[type=button], input[type=submit] {
 }
 
 #current-city {
-    
+    border:black;
 }
